@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		681312361DAA4CE1007BA36B /* NextViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 681312351DAA4CE1007BA36B /* NextViewController.m */; };
+		683FED8B1DAB25B500C4106B /* readMe.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 683FED8A1DAB25B500C4106B /* readMe.rtf */; };
 		684D8C981DAA4AD100949AA9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 684D8C971DAA4AD100949AA9 /* main.m */; };
 		684D8C9B1DAA4AD100949AA9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 684D8C9A1DAA4AD100949AA9 /* AppDelegate.m */; };
 		684D8C9E1DAA4AD100949AA9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 684D8C9D1DAA4AD100949AA9 /* ViewController.m */; };
@@ -38,6 +39,7 @@
 /* Begin PBXFileReference section */
 		681312341DAA4CE1007BA36B /* NextViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NextViewController.h; sourceTree = "<group>"; };
 		681312351DAA4CE1007BA36B /* NextViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NextViewController.m; sourceTree = "<group>"; };
+		683FED8A1DAB25B500C4106B /* readMe.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; name = readMe.rtf; path = ../readMe.rtf; sourceTree = "<group>"; };
 		684D8C931DAA4AD100949AA9 /* HelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		684D8C971DAA4AD100949AA9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		684D8C991DAA4AD100949AA9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				684D8C9F1DAA4AD100949AA9 /* Main.storyboard */,
 				684D8CA21DAA4AD100949AA9 /* Assets.xcassets */,
 				684D8CA41DAA4AD100949AA9 /* LaunchScreen.storyboard */,
+				683FED8A1DAB25B500C4106B /* readMe.rtf */,
 				684D8CA71DAA4AD100949AA9 /* Info.plist */,
 				684D8C961DAA4AD100949AA9 /* Supporting Files */,
 			);
@@ -250,6 +253,7 @@
 			files = (
 				684D8CA61DAA4AD100949AA9 /* LaunchScreen.storyboard in Resources */,
 				684D8CA31DAA4AD100949AA9 /* Assets.xcassets in Resources */,
+				683FED8B1DAB25B500C4106B /* readMe.rtf in Resources */,
 				684D8CA11DAA4AD100949AA9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
